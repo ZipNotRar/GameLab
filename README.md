@@ -8,6 +8,6 @@
 
 ## If you'd like to play the game, please follow these instructions:-
 1. Download the **Executable** folder.
-2. Double click on the [**Executable file**](Executable_File/ComfyStudiosGameLab.exe) file and you will be in the main menu screen.
+2. Double click on the [**Executable file**](Executable_File/ComfyStudiosGameLab.exe) and you will be in the main menu screen.
 3. You move around with mouse clicks and can explore the area around you until you get to your first object which then starts the story of a mysterious murder that took place in the city you are playing in-game.
 4. Enjoy the show!
