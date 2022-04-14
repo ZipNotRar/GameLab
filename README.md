@@ -15,4 +15,4 @@
 ### Additionally, a Videoclip will give you a quick demo of the software..
 Demo             |
 :-------------------------:|
-[![](https://i.ytimg.com/vi/JT186NVsrHE/maxresdefault.jpg)](https://youtu.be/JT186NVsrHE "Krugerspoof") |
+[![](https://i.ytimg.com/vi/JT186NVsrHE/0.jpg)](https://youtu.be/JT186NVsrHE "Krugerspoof") |
