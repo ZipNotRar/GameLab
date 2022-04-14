@@ -11,3 +11,8 @@
 2. Double click on the [**Executable file**](Executable_File/ComfyStudiosGameLab.exe) and you will be in the main menu screen.
 3. You move around with mouse clicks and can explore the area around you until you get to your first object which then starts the story of a mysterious murder that took place in the city you are playing in-game.
 4. Enjoy the show!
+
+### Additionally, a Videoclip will give you a quick demo of the software..
+Demo             |
+:-------------------------:|
+[![](https://i.ytimg.com/vi/JT186NVsrHE/maxresdefault.jpg)](https://youtu.be/JT186NVsrHE "Krugerspoof") |
